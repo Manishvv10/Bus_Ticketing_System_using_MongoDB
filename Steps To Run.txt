@@ -1,0 +1,8 @@
+---------- Installation & Execution ----------
+
+1. Install Visual Studio Community Edition (.NET Desktop Development) and MongoDB community Edition.
+2. After installing Visual Studio Go to this location --> C:\Users\<YOUR USERNAME>\source\repos.
+3. Inside The repos folder paste the given "BusReservationSystem" Folder.
+4. Now Open Visual Studio And Go to "Open A Project". Browse For The Folder You just copied inside the repos folder.
+5. Inside the BusReservationSystem Folder Select & Open the BusReservationSystem.sln file to open the project in Visual Studio.
+6. You Can Now run the project.
